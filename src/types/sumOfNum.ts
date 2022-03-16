@@ -1,0 +1,1 @@
+export type sumOfNumType = (value: number) => number;

@@ -1,0 +1,1 @@
+export type flatArrType = (value: any[]) => any[];
