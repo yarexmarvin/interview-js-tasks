@@ -1,0 +1,1 @@
+export type isValidWalk = (steps: string[]) => boolean;
