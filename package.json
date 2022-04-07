@@ -2,7 +2,7 @@
   "name": "tasks",
   "version": "1.0.0",
   "description": "",
-  "type": "commonjs",
+  "type":"commonjs",
   "main": "index.js",
   "scripts": {
     "test": "jest"
